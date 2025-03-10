@@ -33,13 +33,12 @@ This repository contains the code and documentation for a deep learning project 
 
 ```
 deep-learning-challenge/
-├── Deep_Learning_Challenge/
-├── README.md
 ├── 1_Starter_Code_ipynb_Explanation.pdf
 ├── 2_AlphabetSoupCharity_Optimization_ipynb_Explanation.pdf
 ├── 3_AlphabetSoupCharity_Optimization_Final_ipynb_Explanation.pdf
 ├── 4_Optimization_Progression.pdf
 ├── 5_Report - Deep Learning Model for Charity Success Prediction.pdf
+├── README.md
 └── Deep_Learning_Challenge/
     ├── Start_Code.h5
     ├── Starter_Code.ipynb
